@@ -1,0 +1,1 @@
+Movie [getTitle()=Movie 1, getGenere()=Genero 1, getDuration()=115, getYear()=2016]Movie [getTitle()=Movie 4, getGenere()=Genero 4, getDuration()=130, getYear()=2019]
